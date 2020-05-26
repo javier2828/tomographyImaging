@@ -9,11 +9,11 @@
 
 ### Sample Images
 Standard phantom artificially created to test algorithm (Shep-Logan)
-![Image](https://github.com/javier2828/tomographyImaging/blob/master/Normal%20Tomography/Shep-Logan%20Phantom%20(MATLAB).jpg)
+![Image](https://i.imgur.com/H2vrACe.png)
 
 Running the phantom through an 'x-ray machine' synthetically (Radon Transform)
-![Image](https://github.com/javier2828/tomographyImaging/blob/master/Normal%20Tomography/RadonALG2Phantom.jpg)
+![Image](https://i.imgur.com/451Fzhi.png)
 
 Reconstruting the original phantom from the x-ray image shown above (backprojection)
-![Image](https://github.com/javier2828/tomographyImaging/blob/master/Normal%20Tomography/backProjection-Phantom%20FILTER2.jpg)
+![Image](https://i.imgur.com/brA3zCN.png)
 
